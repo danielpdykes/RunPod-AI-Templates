@@ -4,6 +4,7 @@ A list of various RunPod template resources for AI in the (GPU) cloud.
 ## Learning resources
 
 1. [**Getting Started with RunPod Serverless**](https://trapdoor.cloud/getting-started-with-runpod-serverless/) - Some of the listed templates are for RunPod Serverless. If you're not familiar, read this
+2. [**Using Stable Diffusion Kohya_ss ComfyUI Ultimate**](https://www.youtube.com/watch?v=N_zhQSx2Q3c) - Somewhat overly detailed tutorial for using Kohya_ss to train SDXL LoRAs. Checks in a nearly an hour. Covers RunPod and the Stable Diffusion Kohya_ss ComfyUI Ultimate RunPod tutorial. Based upon v.21.8 of Kohya.
 
 ## Generative image templates
 
